@@ -29,6 +29,7 @@ source venv/bin/activate
 
 pip install -r requirements.txt
 
+chmod +x redcock.py
 
 Como usar:
 
